@@ -1,6 +1,6 @@
 # Master Thesis
 
-## Introduction 
+## Introduction
 
 This study investigated the viability of transfer learning with RGB-D datasets using Frustum PointNet on the KITTI Dataset and the SUN RGB-D Dataset. This study only dealt with the frustum point cloud extracted from the raw datasets. **Since the focus of this study was not to replicate the results published by the authors of the Frustum PointNet, this implementation differes from the authors' implementation in several ways. Hence, if you would like to use or implement Frustum PointNet yourself, please refer to the official source code instead.**
 
